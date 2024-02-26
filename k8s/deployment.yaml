@@ -13,5 +13,5 @@ spec:
     spec:
       containers:
         - name: krampoline
-          # 여러분의 image 주소를 입력해주세요.
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_455bc2d4ccc3
+          # 여러분의 image 주소를 입력해주세요. #빌드한 도커이미지를(복사)해서 여기아래에 붙여넣음 
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_e4126fe575ec:latest
